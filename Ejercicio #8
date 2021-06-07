@@ -1,0 +1,12 @@
+Ejercicio #8 
+
+Algoritmo multiplos5
+	Borrar Pantalla
+	t <- 0
+	Mientras p<>salir Hacer
+		Escribir 'Multiplos 5 aleatorio'
+		k <- 5*(t+1)
+		k <- Aleatorio(5,39605)
+		Leer p
+	FinMientras
+FinAlgoritmo
